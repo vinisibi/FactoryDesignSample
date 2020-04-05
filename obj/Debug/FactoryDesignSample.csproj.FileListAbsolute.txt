@@ -1,0 +1,10 @@
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.csprojAssemblyReference.cache
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.Form1.resources
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.Properties.Resources.resources
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.csproj.GenerateResource.cache
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.csproj.CoreCompileInputs.cache
+C:\Users\sibiv\source\repos\FactoryDesignSample\bin\Debug\FactoryDesignSample.exe.config
+C:\Users\sibiv\source\repos\FactoryDesignSample\bin\Debug\FactoryDesignSample.exe
+C:\Users\sibiv\source\repos\FactoryDesignSample\bin\Debug\FactoryDesignSample.pdb
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.exe
+C:\Users\sibiv\source\repos\FactoryDesignSample\obj\Debug\FactoryDesignSample.pdb
